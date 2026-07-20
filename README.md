@@ -97,9 +97,8 @@ infrastructure impact. (In Progress)
 - Fuzzy Identification-Based Encryption – JEMTAC (2022).
 https://www.qscience.com/content/journals/10.5339/jemtac.2022.qhc.72
 - Biometric Identity-Based Encryption – ACM Digital Library.
-- https://dl.acm.org/doi/10.1145/3508072.3508082
-Co-author,
-- RIDGECUT: Learning Graph Partitioning with Rings and Wedges 
+  https://dl.acm.org/doi/10.1145/3508072.3508082
+- Co-author, RIDGECUT: Learning Graph Partitioning with Rings and Wedges 
 https://doi.org/10.48550/arXiv.2505.13986
 
 ---
@@ -115,7 +114,6 @@ https://doi.org/10.48550/arXiv.2505.13986
 
 ## 📫 Connect with Me
 
-- GitHub: https://github.com/mahimaaggarwal-tech
 - LinkedIn: www.linkedin.com/in/mahima-aggarwal-77a84438
 
 ---
