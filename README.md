@@ -92,8 +92,16 @@ Worked on a distributed traffic simulation platform involving simulation service
 
 ## 📚 Publications
 
-- Case Study of the Los Angeles County Wildfire (2025) – Spatial analysis of burn severity &
-infrastructure impact. (In Progress)
+- ### Under Review / In Preparation
+**A Case Study of the Los Angeles County Wildfire, January 2025: Spatial Analysis of Burn Severity and Its Impact on Population, Roads and Infrastructure**
+Status: Manuscript in preparation.
+Topics:
+- Remote Sensing
+- GIS
+- Burn Severity
+- Fire Spread Modeling
+- AI for Earth Observation
+  
 - Fuzzy Identification-Based Encryption – JEMTAC (2022).
 https://www.qscience.com/content/journals/10.5339/jemtac.2022.qhc.72
 - Biometric Identity-Based Encryption – ACM Digital Library.
