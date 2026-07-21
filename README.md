@@ -102,11 +102,11 @@ Topics:
 - Fire Spread Modeling
 - AI for Earth Observation
   
-- Fuzzy Identification-Based Encryption – JEMTAC (2022).
+- ### Fuzzy Identification-Based Encryption – JEMTAC (2022).
 https://www.qscience.com/content/journals/10.5339/jemtac.2022.qhc.72
-- Biometric Identity-Based Encryption – ACM Digital Library.
+- ### Biometric Identity-Based Encryption – ACM Digital Library.
   https://dl.acm.org/doi/10.1145/3508072.3508082
-- Co-author, RIDGECUT: Learning Graph Partitioning with Rings and Wedges 
+- ### Co-author, RIDGECUT: Learning Graph Partitioning with Rings and Wedges 
 https://doi.org/10.48550/arXiv.2505.13986
 
 ---
