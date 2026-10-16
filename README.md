@@ -106,8 +106,8 @@ Topics:
 https://www.qscience.com/content/journals/10.5339/jemtac.2022.qhc.72
 - ### Biometric Identity-Based Encryption – ACM Digital Library.
   https://dl.acm.org/doi/10.1145/3508072.3508082
-- ### Co-author, RIDGECUT: Learning Graph Partitioning with Rings and Wedges 
-https://doi.org/10.48550/arXiv.2505.13986
+- ### RIDGECUT: Learning Graph Partitioning with Rings and Wedges — Co-author, Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (Volume 2), 2026.
+https://dl.acm.org/doi/10.1145/3770855.3818103
 
 ---
 
